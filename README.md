@@ -1,6 +1,7 @@
-# test
+# Test task to TR Logic
 
 ## Project setup
+Clone this repo and call
 ```
 npm install
 ```
